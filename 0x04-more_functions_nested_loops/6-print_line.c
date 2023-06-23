@@ -12,7 +12,7 @@ void print_line(int n)
 {
 		printf("_");
 }
-printf("\n");
+	printf("\n");
 }	else
 		printf("\n");
 		}
